@@ -1,0 +1,1 @@
+print ('Rb is cool')
